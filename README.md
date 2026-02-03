@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toby
 - 📫 How to reach me: N/A
-- My ORCID is https://orcid.org/0009-0009-6875-6000
+- My ORCID is 
 
 <!---
 Tws21/Tws21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
